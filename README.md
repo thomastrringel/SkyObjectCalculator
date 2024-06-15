@@ -1,10 +1,11 @@
 # SkyObjectCalculator
-SkyObject Python Program using Astropy. It generates a window using PyQT5 to select location &amp; skyobject. It will calculate RA, DEC, ALT, AZ of the Sky Object.
+SkyObject Python Program using Astropy.<br /> 
+It generates a window using PyQT5 to select location of the skyobject. It will calculate RA, DEC, ALT, AZ of the Sky Object.
 
-Build with:
-Python       3.9.12
-PyQt5        5.15.10
-pytz         2024.1
-astropy      6.0.0
+Build with:<br />
+Python       3.9.12<br />
+PyQt5        5.15.10<br />
+pytz         2024.1<br />
+astropy      6.0.0<br />
 
 Start myAstropy.py and install necessary libraries. myAstropy will load the UI itself.
