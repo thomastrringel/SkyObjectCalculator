@@ -8,4 +8,4 @@ PyQt5        5.15.10<br />
 pytz         2024.1<br />
 astropy      6.0.0<br />
 
-Start myAstropy.py and install necessary libraries. myAstropy will load the UI itself.
+Start TAB_SkyObject.py and install necessary libraries. myAstropy will load the UI itself.
